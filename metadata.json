@@ -1,0 +1,6 @@
+{
+  "name": "Noble Life Mentoring Hub",
+  "description": "Islamic mentoring for young boys and girls struggling with sensitive habits and life challenges. Guiding young hearts to purity, dignity, and purpose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
